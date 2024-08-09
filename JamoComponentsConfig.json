@@ -1,0 +1,13 @@
+{
+    "componentDirectory": {
+        "LandingPage": "Components/LandingPage/",
+        "Navbar":"Components/Navbar/",
+        "RestaurantsPage": "Components/RestaurantsPage/",
+        "ShowRestaurantPage": "Components/ShowRestaurantPage/",
+        "Menu": "Components/Menu/",
+        "MenuItem": "Components/MenuItem/",
+        "Cart": "Components/Cart/",
+        "CartItem": "Components/CartItem/",
+        "Profile": "Components/Profile/"
+    }
+}
